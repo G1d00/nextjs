@@ -18,11 +18,12 @@
     "lucide-react": "^0.542.0",
     "next": "15.5.0",
     "next-auth": "^5.0.0-beta.29",
-    "next-sanity": "^10.0.15",
+    "next-sanity": "^10.1.0-canary.12",
     "postcss": "^8.5.6",
     "react": "19.1.0",
     "react-dom": "19.1.0",
     "sanity": "^4.6.0",
+    "sanity-plugin-markdown": "^6.0.0",
     "styled-components": "^6.1.19",
     "tailwind-animate": "^0.2.10",
     "tailwind-merge": "^3.3.1"
